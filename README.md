@@ -1,4 +1,3 @@
-
 Problem statement: Build a spiderbot (web scraper) that continuously runs in the background and recursively scrapes all links it can find
 
 Problem Details: The Root URL for this project will be https://flinkhub.com . The Root URL must be manually entered into the database before the process starts.
