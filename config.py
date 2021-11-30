@@ -1,7 +1,7 @@
 # File to store info about all variables related to application configuration
 
 """
-main.py        :  Contain main funcytion
+main.py        :  Contain main function
 database.py    :  Contain function related to database operations
 crawler.py     :  Contain function related to scraping and link validations
 
